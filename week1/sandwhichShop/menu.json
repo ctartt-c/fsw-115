@@ -1,0 +1,185 @@
+{
+ "menu":[
+ {
+    "appetizers":["watermelons",
+      "grapes",
+      "apples",
+      "pineapples"
+    ]
+ },
+ {
+    "coldSandwhiches":[
+      "Turkey",
+      "Ham",
+      "Salami",
+      "Beef"
+  ]
+ },
+ {
+     "hotSandwhiches":[
+       "Bolo sandwhich",
+       "Hamburger",
+       "cheeseburger",
+       "hotdogs"
+     ]
+ },
+
+ {
+     "Desserts":[
+       "Strawberry shortcake",
+       "bannana pudding",
+       "Lemon cake",
+       "chocolate cake"
+     ]
+ },
+
+ {
+     "Drinks":[
+       "Coco cola",
+       "Sprite",
+       "Orange fanta",
+       "Strawberry fanta"
+     ]
+ },
+
+ {
+     "appetizers":[
+       {
+         "Turkey": "name of item",
+         "ingredients":["foo","foo","foo","foo"],
+         "description":"Red"
+       },
+       {
+        "ham": "name of item",
+        "ingredients":["foo","foo","foo","foo"],
+        "description":"green"
+      },
+      {
+        "apples": "name of item",
+        "ingredients":["foo","foo","foo","foo"],
+        "description":"Red"
+      },
+      {
+        "pineapples": "name of item",
+        "ingredients":["foo","foo","foo","foo"],
+        "description":"yellow"
+      }
+      
+     ]
+
+ },
+ {
+      "coldSandwhiches":[
+        {
+          "Turkey": "name of item",
+          "ingredients":["Meat","bread","cheese","lettuce","tomatoes","ketchup","mustard"],
+          "description":"It just melt in your mouth!"
+        },
+        {
+          "Ham": "name of item",
+          "ingredients":["Meat","bread","cheese","lettuce","tomatoes","ketchup","mustard"],
+          "description":"It just melt in your mouth!"
+        },
+
+        {
+          "Salami": "name of item",
+          "ingredients":["Meat","bread","cheese","lettuce","tomatoes","ketchup","mustard"],
+          "description":"It just melt in your mouth!"
+        },
+
+        {
+          "Beef": "name of item",
+          "ingredients":["Meat","bread","cheese","lettuce","tomatoes","ketchup","mustard"],
+          "description":"It just melt in your mouth!"
+        }
+      ]
+ },
+
+ {
+      "hotSandwhiches":[
+        {
+          "Bolo sandwhich": "name of item",
+          "ingredients":["Meat","bread","cheese","lettuce","tomatoes","ketchup","mustard"],
+          "description":"It just melt in your mouth!"
+        },
+
+        {
+          "Hamburger": "name of item",
+          "ingredients":["Meat","bread","cheese","lettuce","tomatoes","ketchup","mustard"],
+          "description":"It just melt in your mouth!"
+        },
+
+        {
+          "CheeseBurger": "name of item",
+          "ingredients":["Meat","bread","cheese","lettuce","tomatoes","ketchup","mustard"],
+          "description":"It just melt in your mouth!"
+        },
+
+        {
+          "Hotdog": "name of item",
+          "ingredients":["Meat","bread","cheese","lettuce","tomatoes","ketchup","mustard"],
+          "description":"It just melt in your mouth!"
+        }
+      ]
+ },
+ 
+ {
+      "Desserts":[
+        {
+          "Strawberry short cake": "name of item",
+          "ingredients":["Strawberries","breadcrumbs","whipcream","pound cake"],
+          "description":"It's a round cake with whipcream with strawberry syrup on top."
+        },
+
+        {
+          "Bannana pudding": "name of item",
+          "ingredients":["bannanas","pet milk","pineapples","vanilla waffers","butter"],
+          "description":"It has a fudgy middle with cookies on top."
+        },
+
+        {
+          "Lemon cake": "name of item",
+          "ingredients":["Cake mix","lemon icing","flour","suger","eggs","milk"],
+          "description":"It is yellow with lemon icing on top."
+        },
+
+        {
+          "chocalate cake": "name of item",
+          "ingredients":["Cake mix","chocolate icing","flour","suger","eggs","milk"],
+          "description":"It is chocolate with dark icing on top."
+        }
+      ]
+ },
+
+ {
+        "Drinks":[
+
+          {
+            "coco cola": "name of item",
+            "ingredients":["1 cup grandulated suger","1/2 cup of water","1/2 cup fresh fruit juice","two tablespoons of flavor extract"],
+            "description":"It is a dark soda.."
+          },
+
+          {
+            "Sprite": "name of item",
+            "ingredients":["1 cup grandulated suger","1/2 cup of water","1/2 cup fresh fruit juice","two tablespoons of flavor extract"],
+            "description":"It is a clear soda."
+          },
+
+          {
+            "Orange fanta": "name of item",
+            "ingredients":["1 cup grandulated suger","1/2 cup of water","1/2 cup fresh fruit juice","two tablespoons of flavor extract"],
+            "description":"It is a orange soda."
+          },
+
+          {
+            "Strawberry fanta": "name of item",
+            "ingredients":["1 cup grandulated suger","1/2 cup of water","1/2 cup fresh fruit juice","two tablespoons of flavor extract"],
+            "description":"It is a red soda."
+          }
+
+
+        ]
+ }
+]
+}
